@@ -1,0 +1,2 @@
+# scrum
+Resumo sobre Scrum.
